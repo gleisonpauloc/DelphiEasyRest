@@ -177,10 +177,8 @@ begin
             Exit(False);
         end;
       end;
+      Result := True;
     end;
-
-    Result := True;
-
   finally
     if not Result then
       AParameters.Clear;
