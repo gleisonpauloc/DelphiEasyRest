@@ -1,3 +1,10 @@
+(*
+ * DelphiEasyRest
+ * Copyright (c) 2019 Gleison Paulo Caldeira Oliveira
+ * This file is a part of DelphiEasyRest.
+ * https://github.com/gleisonpauloc/DelphiEasyRest
+ * This project is licensed under the terms of the MIT license.
+*)
 //HTTP status code from: https://www.iana.org/assignments/http-status-codes/http-status-codes.xhtml
 
 unit uHTTPStatus;
