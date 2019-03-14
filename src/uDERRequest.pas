@@ -1,3 +1,10 @@
+(*
+ * DelphiEasyRest
+ * Copyright (c) 2019 Gleison Paulo Caldeira Oliveira
+ * This file is a part of DelphiEasyRest.
+ * https://github.com/gleisonpauloc/DelphiEasyRest
+ * This project is licensed under the terms of the MIT license.
+*)
 unit uDERRequest;
 
 interface
